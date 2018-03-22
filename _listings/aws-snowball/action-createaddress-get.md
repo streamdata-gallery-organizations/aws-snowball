@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateAddress&k=1:
+  /?Action=CreateAddress:
     get:
       summary: ' Create Address '
       description: Creates an address for a Snowball to be shipped to
