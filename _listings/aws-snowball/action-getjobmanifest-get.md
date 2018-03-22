@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetJobManifest&k=1:
+  /?Action=GetJobManifest:
     get:
       summary: ' Get Job Manifest '
       description: |-
