@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateCluster&k=1:
+  /?Action=UpdateCluster:
     get:
       summary: ' Update Cluster '
       description: |-
