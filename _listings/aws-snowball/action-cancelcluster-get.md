@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CancelCluster&k=1:
+  /?Action=CancelCluster:
     get:
       summary: ' Cancel Cluster '
       description: Cancels a cluster job
