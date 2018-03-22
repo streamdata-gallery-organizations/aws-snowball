@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ListClusters&k=1:
+  /?Action=ListClusters:
     get:
       summary: ' List Clusters '
       description: Returns an array of ClusterListEntry objects of the specified length
