@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeAddress&k=1:
+  /?Action=DescribeAddress:
     get:
       summary: ' Describe Address '
       description: |-
