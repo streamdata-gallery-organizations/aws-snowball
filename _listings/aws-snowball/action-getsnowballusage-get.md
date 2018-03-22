@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetSnowballUsage&k=1:
+  /?Action=GetSnowballUsage:
     get:
       summary: ' Get Snowball Usage '
       description: |-
