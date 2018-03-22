@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeAddresses&k=1:
+  /?Action=DescribeAddresses:
     get:
       summary: ' Describe Addresses '
       description: Returns a specified number of ADDRESS objects
