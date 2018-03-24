@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-snowball.api.streamdata.gallery
+title: Streamdata Gallery AWS Snowball
+url: aws-snowball.streamdata.gallery
 tag: AWS Snowball
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-snowball
 github_branch: master
 collections:
