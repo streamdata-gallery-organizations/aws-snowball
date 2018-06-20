@@ -5,7 +5,7 @@ description: This is a repository of aws snowball APIs, self-contained as a Gith
   operations.
 image: http://template.streamdata.gallery/assets/aws-snowball.png
 created: "2018-02-24"
-modified: "2018-05-24"
+modified: "2018-06-20"
 url: http://aws-snowball.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
